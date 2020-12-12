@@ -133,6 +133,6 @@ plt.bar(y_pos, totalGenerationDataset[4], align='center',label="Winter",bottom=(
 #plotting bar chart
 plt.xticks(y_pos, years)
 plt.ylabel('Energy Generated (kWh)')
-plt.title('Inter-Annual Variaion of Run-of-River Plant')# of Run of River Power Plant at Huron River')
+plt.title('Interannual Variation of Run-of-River Plant')# of Run of River Power Plant at Huron River')
 plt.legend()
 plt.show()
